@@ -10,7 +10,7 @@ namespace Design_Pattern
     {
         List<IEmployee> employees;
 
-        public abstract void     CreateEmployee();
+        public abstract void CreateEmployee();
 
         public void CreateSoftware()
         {
